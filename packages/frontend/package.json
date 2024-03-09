@@ -1,0 +1,16 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "더치페이 프론트엔드",
+  "author": "Minhyeong Jang <public.doriri@gmail.com>",
+  "homepage": "https://www.calpayment.com",
+  "license": "ISC",
+  "main": "lib/frontend.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhyeong-jang/dutch-pay-monorepo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/minhyeong-jang/dutch-pay-monorepo/issues"
+  }
+}
